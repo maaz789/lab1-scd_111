@@ -52,7 +52,7 @@ public class TicketBookingSystem {
         System.out.println("Destination: " + destination);
         System.out.println("Date of Journey: " + dateOfJourney);
         System.out.println("Time: " + time);
-        System.out.println("Bus Number: " + busNo);
+        System.out.println("Bus Number: " + busNo)
         System.out.println("Seat Number: " + seatNo);
     }
     public static void main(String[] args) {
